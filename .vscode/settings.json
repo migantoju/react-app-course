@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\a_niu\\.virtualenvs\\React-tracks-OgQIMeen\\Scripts\\python.exe",
+    "workbench.colorCustomizations": {
+        "[Noctis Uva]": {
+          "titleBar.activeBackground": "#f30067",
+          "titleBar.activeForeground": "#fff",
+          "statusBar.background": "#fd5f00",
+          "statusBar.foreground": "#fff",
+        }
+      },
+}
